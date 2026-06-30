@@ -25,5 +25,3 @@ https://chesecakefactorymenus.com/
 
 ## Note
 This repository is for general menu information only. Prices, menu items, calories, hours, deals, and availability may vary by location. This project is not connected with or endorsed by The Cheesecake Factory.
-
-This repository is for general menu information only. Prices, menu items, calories, hours, deals, and availability may vary by location. This project is not connected with or endorsed by The Cheesecake Factory.
